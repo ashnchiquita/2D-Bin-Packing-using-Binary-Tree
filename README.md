@@ -1,9 +1,9 @@
 # 2D Bin Packing Algorithm using Binary Tree Concept
-## Sebagai Penunjang Tugas Makalah IF2120 Matematika Diskrit
+### Sebagai Penunjang Tugas Makalah IF2120 Matematika Diskrit
 ### Created by Chiquita Ahsanunnisa (13521129)
 
 ### About This Program
-2D Bin Packing Problem adalah salah satu NP-Problem ....
+Two dimensional bin packing problem membahas bagaimana caranya menyusun balok-balok ke dalam bin dua dimensi secara optimal?” Persoalan ini dikategorikan sebagai nondeterministic polynomial (NP) problem yang membutuhkan algoritma kompleks untuk memecahkannya. Oleh karena itu, dibutuhkan suatu algoritma pendekatan. Salah satu pendekatan yang dapat dilakukan adalah dengan memanfaatkan konsep pohon biner.
 
 Program ini adalah program berbasis Command Line Interface (CLI) yang dibangun dengan bahasa pemrograman C. Program ini mensimulasikan susunan balok-balok dalam bin dua dimensi yang dapat meminimumkan space yang tidak terpakai pada bin. Pengguna dapat memilih metode penyusunan balok, yaitu dengan metode First Fit Decreasing dan Best Fit Decreasing. Konsep yang digunakan dalam membuat algoritma program ini adalah konsep pohon biner.
 
